@@ -1,61 +1,105 @@
-<h1 align="center">Hello there!<br />👋<br />I'm Lluc Valério</h1>
-<h3 align="center">A Full Stack Developer!</h3>
-<hr />
-<h3 align="left">Connect with me:</h3>
 <header align="left">
+  <h1 align="center">Hello there!<br />👋<br />I'm Lluc Valério</h1>
+  <!-- <h3 align="center">A Full Stack Developer!</h3> -->
+  <!-- <hr /> -->
+  <ul>
+    <li>🌱 I’m currently learning Angular NgRx.</li>
+    <li>💬 Ask me about whatever you want.</li>
+    <li>⚡ Fun fact: ...</li>
+    <!-- - 🔭 I’m currently working on ... -->
+    <!-- - 👯 I’m looking to collaborate on ... -->
+    <!-- - 🤔 I’m looking for help with ... -->
+    <!-- - 📫 How to reach me: ... -->
+    <!-- - 😄 Pronouns: ... -->
+  </ul>
+  <h3 align="left">Connect with me:</h3>
   <a href="mailto:lluc.valerio@gmail.com?subject=GitHub%20-->%20Hi%20Lluc%20Valério">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/llucvaleriobrau">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
 </header>
-<hr />
 
-<!-- <h3>Programming lenguages & Other</h3>
+<br />
 
+<section>
+  <h3 align="left">Programming lenguages & Other</h3>
+  <hr />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=000000" />&nbsp;
+  <img src="https://img.shields.io/badge/TYPESCRIPT-2d79c7.svg?&style=for-the-badge&logo=typescript&logoColor=ffffff" />
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-e54c21.svg?&style=for-the-badge&logo=html5&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-214ce5.svg?&style=for-the-badge&logo=css3&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/SASS-cf649a.svg?&style=for-the-badge&logo=sass&logoColor=ffffff" />
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/ANGULAR-de002d.svg?&style=for-the-badge&logo=angular&logoColor=ffffff" />&nbsp;
+  <!-- <img src="https://img.shields.io/badge/NgRx-412846.svg?&style=for-the-badge&logo=ngrx&logoColor=ffffff" /> -->
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/REACT-61dbfb.svg?&style=for-the-badge&logo=react&logoColor=000000" />&nbsp;
+  <img src="https://img.shields.io/badge/REDUX-764abc.svg?&style=for-the-badge&logo=redux&logoColor=ffffff" />
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/VISUAL-195f97?style=for-the-badge&logo=.net&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-9b4f97?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/SQL-01aaeb?style=for-the-badge&logo=sql&logoColor=white" />&nbsp;
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/JAVA-ec2025?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+</section>
+  
+<br>
 
-- ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+<section>
+  <h3 align="left">Technologies I use</h3>
+  <hr />
+  <img src="https://img.shields.io/badge/node.js-57a646.svg?&style=for-the-badge&logo=node.js&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/EXPRESS-000000.svg?&style=for-the-badge&logo=express&logoColor=ffffff" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/MONGODB-10aa50.svg?&style=for-the-badge&logo=mongoDB&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/MONGOOSE-840202.svg?&style=for-the-badge&logo=mongoose&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL%20SERVER-df2f29.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff" />&nbsp;
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/ESLINT-4b32c3.svg?&style=for-the-badge&logo=eslint&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/SONARQUBE-4c9bd6.svg?&style=for-the-badge&logo=sonarqube&logoColor=ffffff" />&nbsp;
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/JEST-c53d17.svg?&style=for-the-badge&logo=jest&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/JASMINE-8a4182.svg?&style=for-the-badge&logo=jasmine&logoColor=ffffff" />&nbsp;
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/GIT-f05030.svg?&style=for-the-badge&logo=git&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/GITHUB-000000.svg?&style=for-the-badge&logo=gitHub&logoColor=ffffff" />&nbsp;
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/VSCODE-218fd5.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO-844bc6.svg?&style=for-the-badge&logo=visual-studio&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/POSTMAN-ff6c37.svg?&style=for-the-badge&logo=postman&logoColor=ffffff" />&nbsp;
+</section>
 
-- ![HTML5](https://img.shields.io/badge/HTML5-e44d26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-264de4.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+<br />
 
-![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
-- ![ANGULAR](https://img.shields.io/badge/-ANGULAR-red?&style=flat&logo=ANGULAR&logoColor=white)&nbsp;
-![REDUX](https://img.shields.io/badge/REDUX-764ABC.svg?&style=flat&logo=NGRX&logoColor=white)&nbsp;
+<section>
+  <h3 align="left">Technologies I use</h3>
+  <hr />
+</section>
 
-- ![REACT](https://img.shields.io/badge/REACT-61dafb.svg?&style=flat&logo=REACT&logoColor=white)&nbsp;
-- 
-![REDUX](https://img.shields.io/badge/REDUX-764ABC.svg?&style=flat&logo=REDUX&logoColor=white)&nbsp;
-![js]()
+<br />
 
-<img src="https://user-images.githubusercontent.com/79216174/136427784-578ef2d5-df56-451e-84d0-99534510cd7f.png" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
+<section>
+  <h3 align="left">Technologies I use</h3>
+  <hr />
+  
+  ![](https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/overview.svg)
+  
+  ![](https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/languages.svg)
 
-![](https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/languages.svg)
-
-
-
-
-
-
-<hr />
-<hr />
-
-
-<!--
-**llucValerio/llucValerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</section>
