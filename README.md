@@ -110,7 +110,7 @@
 <br/>
 <br/>
   <img align="center" src="https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/overview.svg" />
-  <img align="center" src="https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/languages.svg" /
+  <img align="center" src="https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/languages.svg" />
 
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucValerio&theme=onedark&langs_count=10&layout=compact&card_width=445" />
