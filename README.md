@@ -100,10 +100,16 @@
 <section>
   <h3 align="left">GitHub Statistics</h3>
   <hr />
-  <!-- <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/overview.svg" /> -->
-  <!-- <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/languages.svg" /> -->
-
-  <!-- <img align="center" src="raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/overview.svg" /> -->
+  <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/overview.svg" />
+  <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/languages.svg" />
+<br/>
+<br/>
+<br/>
+<hr />
+<br/>
+<br/>
+<br/>
+  <img align="center" src="https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/overview.svg" />
   <!-- <img align="center" src="raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/languages.svg" / -->
 
 
