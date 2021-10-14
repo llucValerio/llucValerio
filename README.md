@@ -103,8 +103,8 @@
   <!-- <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/overview.svg" /> -->
   <!-- <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/languages.svg" /> -->
 
-  <img align="center" src="https://github.com/llucValerio/github-stats-transparent/output/generated/overview.svg" />
-  <img align="center" src="https://github.com/llucValerio/github-stats-transparent/output/generated/languages.svg" /
+  <img align="center" src="raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/overview.svg" />
+  <img align="center" src="raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/languages.svg" /
 
 
 <!-- ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg) -->
