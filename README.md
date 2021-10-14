@@ -3,7 +3,7 @@
   <!-- <h3 align="center">A Full Stack Developer!</h3> -->
   <!-- <hr /> -->
   <ul>
-    <li>🌱 I’m currently learning Angular NgRx.</li>
+    <li>🌱 I’m currently learning Angular NgRx. <br /> Focused with Node.js, MEAN and MERN stack.</li>
     <li>💬 Ask me about whatever you want.</li>
     <li>⚡ Fun fact: ...</li>
     <!-- - 🔭 I’m currently working on ... -->
@@ -88,18 +88,34 @@
 <br />
 
 <section>
-  <h3 align="left">Technologies I use</h3>
+  <h3 align="left">Other Interests</h3>
   <hr />
+  <img src="https://img.shields.io/badge/RASPBERRY-c41949.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=000000" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/SCRUM-189ab6.svg?&style=for-the-badge&logo=scrum&logoColor=000000" />&nbsp;
+  <img src="https://img.shields.io/badge/AGILE-234d8e.svg?&style=for-the-badge&logo=agile&logoColor=000000" />
 </section>
-
-<br />
-
+ 
 <section>
-  <h3 align="left">Technologies I use</h3>
+  <h3 align="left">GitHub Statistics</h3>
   <hr />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucValerio&theme=onedark&langs_count=10&layout=compact&card_width=445" /> -->
+    <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/languages.svg" />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=llucValerio&show_icons=true&theme=onedark&count_private=true&hide=issues,contribs" /> -->
+    <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/overview.svg" />
+    <!-- &hide=stars,commits,prs,issues,contribs -->
+  </a>
+
+  <!-- ![](https://github.com/llucValerio/github-stats/blob/master/generated/languages.svg) -->
   
-  ![](https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/overview.svg)
-  
-  ![](https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/languages.svg)
+  <!-- ![](https://github.com/llucValerio/github-stats/blob/master/generated/overview.svg) -->
+
+
 
 </section>
