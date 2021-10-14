@@ -108,7 +108,7 @@
   <br />
     <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/overview.svg" />
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=llucValerio&show_icons=true&theme=onedark&count_private=true&hide=issues,contribs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=llucValerio&show_icons=true&theme=onedark&count_private=true&hide=issues,contribs" />-->
     <!-- &hide=stars,commits,prs,issues,contribs -->
-  </a> -->
+  <!-- </a> -->
 </section>
