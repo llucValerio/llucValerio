@@ -100,22 +100,15 @@
 <section>
   <h3 align="left">GitHub Statistics</h3>
   <hr />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucValerio&theme=onedark&langs_count=10&layout=compact&card_width=445" /> -->
-    <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/languages.svg" />
-  </a>
+  <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/languages.svg" />
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucValerio&theme=onedark&langs_count=10&layout=compact&card_width=445" />
+  </a> -->
   <br />
   <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=llucValerio&show_icons=true&theme=onedark&count_private=true&hide=issues,contribs" /> -->
     <img align="center" src="https://github.com/llucValerio/github-stats/blob/master/generated/overview.svg" />
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=llucValerio&show_icons=true&theme=onedark&count_private=true&hide=issues,contribs" />
     <!-- &hide=stars,commits,prs,issues,contribs -->
-  </a>
-
-  <!-- ![](https://github.com/llucValerio/github-stats/blob/master/generated/languages.svg) -->
-  
-  <!-- ![](https://github.com/llucValerio/github-stats/blob/master/generated/overview.svg) -->
-
-
-
+  </a> -->
 </section>
