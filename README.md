@@ -107,8 +107,8 @@
   <img align="center" src="https://github.com/llucValerio/github-stats-transparent/output/generated/languages.svg" /
 
 
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+<!-- ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg) -->
+<!-- ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg) -->
 
 
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -117,7 +117,7 @@
   <!-- <br /> -->
   <!-- <br /> -->
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=llucValerio&show_icons=true&theme=onedark&count_private=true&hide=issues,contribs" />-->
-    <!-- &hide=stars,commits,prs,issues,contribs -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=llucValerio&show_icons=true&theme=onedark&count_private=true&hide=issues,contribs" /> 
+    &hide=stars,commits,prs,issues,contribs -->
   <!-- </a> -->
 </section>
