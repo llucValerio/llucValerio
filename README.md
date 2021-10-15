@@ -109,7 +109,5 @@
 <section>
   <h3 align="left">GitHub Statistics</h3>
   <hr />
-  <img alt="metrics" align="center" src="https://metrics.lecoq.io/llucValerio?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FMadrid" />
-  <hr />
   <img src="https://github.com/llucValerio/llucValerio/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </section>
