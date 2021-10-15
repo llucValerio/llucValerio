@@ -109,9 +109,7 @@
 <section>
   <h3 align="left">GitHub Statistics</h3>
   <hr />
-  
-  [Metrics](https://metrics.lecoq.io/llucValerio?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FMadrid)
-  
-  <!-- <img align="center" src="https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/overview.svg" />
-  <img align="center" src="https://raw.githubusercontent.com/llucValerio/github-stats-transparent/output/generated/languages.svg" /> -->
+  <img alt="metrics" align="center" src="https://metrics.lecoq.io/llucValerio?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FMadrid" />
+  <hr />
+  <img src="https://github.com/llucValerio/llucValerio/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </section>

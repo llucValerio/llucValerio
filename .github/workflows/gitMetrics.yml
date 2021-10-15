@@ -19,6 +19,9 @@ jobs:
           user: llucValerio
           template: classic
           base: ""
+          commits_authoring: llucValerio
           config_timezone: Europe/Madrid
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
+          repositories: 100
+          repositories_forks: yes
